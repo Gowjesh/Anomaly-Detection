@@ -266,4 +266,4 @@ This type of system can be useful for:
 
 ## OUTPUT
 
-<img width="974" height="696" alt="image" src="https://github.com/user-attachments/assets/8b90052a-a340-46f7-8c9b-2bd679f63ae2" />
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/00ad5834-1af6-4a41-ada4-0d79e38246e1" />
