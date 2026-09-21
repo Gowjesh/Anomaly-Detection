@@ -264,14 +264,6 @@ This type of system can be useful for:
 * Deploy the application online
 * Add authentication and user management
 
-## Author
+## OUTPUT
 
-Gowjesh P
-
-B.Tech Artificial Intelligence and Data Science
-
-## Project Summary
-
-This project demonstrates how Machine Learning and NLP techniques can be combined to detect unusual patterns in system logs.
-
-The system converts log text into numerical features using TF-IDF and applies unsupervised machine learning algorithms to identify potential anomalies.
+<img width="974" height="696" alt="image" src="https://github.com/user-attachments/assets/8b90052a-a340-46f7-8c9b-2bd679f63ae2" />
